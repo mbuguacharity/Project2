@@ -1,3 +1,10 @@
+/*
+Name: Charity Mbugua
+Reg No: CT100/G/30635/26
+Date: 30/09/2026
+ */
+
+
 #include<stdio.h>
 //function prototype 
 float calculatetax(float gross_salary);
