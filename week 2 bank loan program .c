@@ -1,3 +1,11 @@
+
+/*
+Name: Charity Mbugua
+Reg No: CT100/G/30635/26
+Description:BANK LOAN
+Date: 25/09/2026
+ */
+
 #include<stdio.h>
 
 int main()
