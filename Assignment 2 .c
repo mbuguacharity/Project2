@@ -1,3 +1,9 @@
+/*
+Name: Charity Mbugua
+Reg No: CT100/G/30635/26
+Date: 1/10/2026
+ */
+
 #include<stdio.h>
 
 int main(){
